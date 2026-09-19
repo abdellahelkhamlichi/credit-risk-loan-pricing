@@ -50,7 +50,7 @@ pip install -r requirements.txt
 jupyter notebook notebook/credit_risk_pricing_project.ipynb
 streamlit run dashboard/app.py
 ```
-
+or by This URL "credit-risk-loan-pricing-xkv46sqtot2ljqzvmojrek.streamlit.app"
 ## Author
 Abdellah El Khamlichi — Master's in Finance, Actuarial Science & Data Science
 
